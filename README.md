@@ -1,6 +1,6 @@
 👋🏽 Sou um Desenvolvedor de Software em constante aprendizado.
 
-🎓 Cursando Ciência da Computação (3/8) pela Universidade Afya São Lucas.
+<p>🎓 Cursando Ciência da Computação (3/8) pela <a href="https://portovelho.afya.com.br/" target="blank_">Universidade Afya São Lucas.</a></p>
 
 💻 Atualmente focado no desenvolvimento Back-end, mas construindo projetos no Front-end para expandir meus conhecimentos.
 
