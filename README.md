@@ -6,4 +6,4 @@
 
 ## 🛠️ Minhas Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css,docker,postgres,spring,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,postgres,github)](https://skillicons.dev)
