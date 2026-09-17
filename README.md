@@ -9,6 +9,6 @@ organizado e de fácil manutenção.
 
 <p>🎓 Graduando em Ciência da Computação pela <a href="https://portovelho.afya.com.br/" target="blank_">Universidade Afya São Lucas.</a></p>
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 [![My Skills](https://skillicons.dev/icons?i=php,java,js,laravel,spring,react,tailwind,vite,postgres,mysql,mongodb,git,gitlab,docker)](https://skillicons.dev)
