@@ -1,9 +1,29 @@
-👋🏽 Sou um desenvolvedor em constante aprendizado.
+# 👋 Olá, eu sou Erik Gabriel
 
-<p>🎓 Cursando Ciência da Computação (4/8) pela <a href="https://portovelho.afya.com.br/" target="blank_">Universidade Afya São Lucas.</a></p>
+💻 Estagiário de Desenvolvimento de Software no DER-RO.
 
-💻 Atualmente focado no desenvolvimento Back-end, e construindo projetos diversificados para expandir meus conhecimentos.
+⚙️ Atualmente trabalho no desenvolvimento e manutenção de sistemas, implementando 
+funcionalidades em aplicações Back-end e Front-end.
 
-## 🛠️ Minhas Habilidades
+☕ No Back-end, trabalho com Java, Spring Boot, PHP e Laravel, enquanto amplio minha experiência com React no Front-end.
 
-[![My Skills](https://skillicons.dev/icons?i=java,php,laravel,spring,postgres,mysql,mongodb,docker,postman,github,git)](https://skillicons.dev)
+<p>🎓 Graduando em Ciência da Computação pela <a href="https://portovelho.afya.com.br/" target="blank_">Universidade Afya São Lucas.</a></p>
+
+## 🛠️ Tech Stack
+
+**Back-end**
+
+[![My Skills](https://skillicons.dev/icons?i=java,php,laravel,spring,)](https://skillicons.dev)
+
+**Front-end**
+
+[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind)](https://skillicons.dev)
+
+**Databases**
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
+
+
+**Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,vite)](https://skillicons.dev)
