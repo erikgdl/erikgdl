@@ -1,9 +1,9 @@
 # 👋 Erik Gabriel
 
-Sou estagiário de Desenvolvimento de Software no **DER-RO**, atuando no desenvolvimento
+💻 Sou estagiário de Desenvolvimento de Software no **DER-RO**, atuando no desenvolvimento
 e manutenção de aplicações web, tanto no **Back-end** quanto no **Front-end**.
 
-Atualmente trabalho com **PHP, Laravel e React**, contribuindo no
+⚙️ Atualmente trabalho com **PHP, Laravel e React**, contribuindo no
 desenvolvimento de funcionalidades, APIs e regras de negócio, com foco em código
 organizado e de fácil manutenção.
 
