@@ -1,13 +1,14 @@
-# 👋 Olá, eu sou Erik Gabriel
+# 👋 Erik Gabriel
 
-# Erik Gabriel
+Sou estagiário de Desenvolvimento de Software no **DER-RO**, atuando no desenvolvimento
+e manutenção de aplicações web, tanto no **Back-end** quanto no **Front-end**.
 
-Estagiário de Desenvolvimento de Software no DER-RO, atuando em aplicações web
-no Back-end e Front-end.
+Atualmente trabalho com **PHP, Laravel e React**, contribuindo no
+desenvolvimento de funcionalidades, APIs e regras de negócio, com foco em código
+organizado e de fácil manutenção.
 
-<p>Atualmente trabalho com PHP, Laravel, Java, Spring Boot, e React.
-Graduando em Ciência da Computação pela <a href="https://portovelho.afya.com.br/" target="blank_">Universidade Afya São Lucas.</a></p>
+<p>🎓 Graduando em Ciência da Computação pela <a href="https://portovelho.afya.com.br/" target="blank_">Universidade Afya São Lucas.</a></p>
 
-## Tecnologias e ferramentas
+## 🛠️ Tecnologias e ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=php,java,js,laravel,spring,react,tailwind,postgres,mysql,mongodb,git,gitlab,docker,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,java,js,laravel,spring,react,tailwind,vite,postgres,mysql,mongodb,git,gitlab,docker)](https://skillicons.dev)
