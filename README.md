@@ -18,19 +18,15 @@
 
 ## Sobre Mim
 
-Sou estagiário de Desenvolvimento de Software no **DER-RO**, atuando no desenvolvimento e manutenção de aplicações web, tanto no **Back-end** quanto no **Front-end**.
+Sou estagiário de Desenvolvimento de Software no **DER-RO**, atuando no desenvolvimento
+e manutenção de aplicações web.
 
-Minha stack atual no ambiente profissional é composta por **PHP, Laravel e React**, com foco na implementação de funcionalidades, APIs e regras de negócio.
+Atualmente trabalho com **PHPe  Laravel**, contribuindo no
+desenvolvimento de funcionalidades, APIs e regras de negócio, com foco em código
+organizado e de fácil manutenção.
 
-- **Back-end:** PHP, Laravel, Java e Spring Boot.
-- **Front-end:** React, JavaScript e Tailwind CSS.
-  
----
+<p>🎓 Graduando em Ciência da Computação pela <a href="https://portovelho.afya.com.br/" target="blank_">Universidade Afya São Lucas.</a></p>
 
-## Tecnologias e Ferramentas
+## 🛠️ Tecnologias e ferramentas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,js,react,tailwind,postgres,mysql,mongodb,docker,git,github,gitlab,vite" />
-</p>
-
----
+[![My Skills](https://skillicons.dev/icons?i=php,java,laravel,spring,postgres,mysql,mongodb,git,gitlab,docker)](https://skillicons.dev)
