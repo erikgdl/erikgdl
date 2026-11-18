@@ -18,7 +18,7 @@
 
 ## Sobre Mim
 
-Sou estagiário de Desenvolvimento de Software no **DER-RO**, atuando no desenvolvimento
+Estagiário de Desenvolvimento de Software no **DER-RO**, atuando no desenvolvimento
 e manutenção de aplicações web.
 
 Atualmente trabalho com **PHPe  Laravel**, contribuindo no
