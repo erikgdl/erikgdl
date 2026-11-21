@@ -21,7 +21,7 @@
 Estagiário de Desenvolvimento de Software no **DER-RO**, atuando no desenvolvimento
 e manutenção de aplicações web.
 
-Atualmente trabalho com **PHPe  Laravel**, contribuindo no
+Atualmente trabalho com **PHP e Laravel**, contribuindo no
 desenvolvimento de funcionalidades, APIs e regras de negócio, com foco em código
 organizado e de fácil manutenção.
 
